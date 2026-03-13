@@ -122,3 +122,11 @@ Click `Merge pull request`.
 1. Close the issue.
 
 2. Delete the PR branch ([`<task-branch>`](#task-branch)).
+
+# Git Workflow
+
+## Resolving merge conflicts
+1. Edit the conflicting file
+2. Choose which changes to keep
+3. Stage the file: `git add <file>`
+4. Commit: `git commit`
